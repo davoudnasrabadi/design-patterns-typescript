@@ -9,7 +9,9 @@
     "start": "node src/dist/index.js",
     "start:example1": "node dist/basics/interfaces/example1/index.js",
     "start:example2": "node dist/basics/encapsulation/index.js",
-    "start:example3": "node dist/basics/abstraction/index.js"
+    "start:example3": "node dist/basics/abstraction/index.js",
+    "start:example4": "node dist/basics/encapsulation/index.js",
+    "start:example5": "node dist/patterns/memento/index.js"
   },
   "repository": {
     "type": "git",
