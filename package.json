@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
-    "start": "node src/dist/index.js"
+    "start": "node src/dist/index.js",
+    "start:example1": "node dist/basics/interfaces/example1/index.js",
+    "start:example2": "node dist/basics/encapsulation/index.js",
+    "start:example3": "node dist/basics/abstraction/index.js"
   },
   "repository": {
     "type": "git",
